@@ -1,2 +1,2 @@
 # learning_javascript
-Repository to learn javascript
+enviroment to run javascript
